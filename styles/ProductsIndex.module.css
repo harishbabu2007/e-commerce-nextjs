@@ -1,0 +1,33 @@
+.main {
+  background-color: black;
+  color: #fff;
+  margin-top: 70px;
+  padding: 10px;
+  display: flex;
+  height: 89vh;
+}
+
+.left {
+  flex: 0.15;
+  padding: 40px;
+  text-align: center;
+}
+
+.center {
+  flex: 0.7;
+  padding: 10px;
+  padding: 40px;
+}
+
+.right {
+  flex: 0.15;
+  padding: 40px;
+  text-align: center;
+}
+
+.btnHolder {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}

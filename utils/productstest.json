@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Dell Laptop 11-inch display 16Gb ram Nvidia 3060 AMD Ryzen",
+    "description": "Very amazing gaming laptop",
+    "price": {
+      "$numberDecimal": "75000"
+    },
+    "purchases": {
+      "$numberInt": "0"
+    },
+    "url": "https://m.media-amazon.com/images/I/71S8U9VzLTL._AC_UY218_.jpg"
+  },
+  {
+    "name": "Samsung Smart Phone 2GB Ram 1TB Storage",
+    "description": "Latest Smart Phone, very amazign",
+    "price": {
+      "$numberDecimal": "10000"
+    },
+    "purchases": {
+      "$numberInt": "0"
+    },
+    "url": "https://m.media-amazon.com/images/I/71KCwNV6MuL._AC_UY218_.jpg"
+  },
+  {
+    "name": "22inch LG Monitor HMDI PC-IN",
+    "description": "Latest 22inch monitor, very nice!!",
+    "price": {
+      "$numberDecimal": "5000"
+    },
+    "purchases": {
+      "$numberInt": "0"
+    },
+    "url": "https://m.media-amazon.com/images/I/61ljri3vL+L._AC_UY218_.jpg"
+  },
+  {
+    "name": "Mi-Smart Watch for mens Bluetooth Wifi Calls",
+    "description": "Latest model smart watch, very smart!!",
+    "price": {
+      "$numberDecimal": "7000"
+    },
+    "purchases": {
+      "$numberInt": "0"
+    },
+    "url": "https://m.media-amazon.com/images/I/61epn29QG0L._AC_UY218_.jpg"
+  },
+  {
+    "name": "Mens T-Shirt SleveLess Regular Fit Size-33",
+    "description": "Very nice shirt!! Amazing Color",
+    "price": {
+      "$numberDecimal": "1000"
+    },
+    "purchases": {
+      "$numberInt": "0"
+    },
+    "url": "https://m.media-amazon.com/images/I/81fTAoKVlUL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Socks Size-11 Regular Fit",
+    "description": "Very nice socks, stylish for sports use",
+    "price": {
+      "$numberDecimal": "500"
+    },
+    "purchases": {
+      "$numberInt": "0"
+    },
+    "url": "https://m.media-amazon.com/images/I/91ALHbMx-9S._AC_UL320_.jpg"
+  },
+  {
+    "name": "Mens Boys Stylish Baseball Black Cap",
+    "description": "Very nice cap, stylish, for kids",
+    "price": {
+      "$numberDecimal": "300"
+    },
+    "purchases": {
+      "$numberInt": "0"
+    },
+    "url": "https://m.media-amazon.com/images/I/61VyP6x5fBL._AC_UL320_.jpg"
+  },
+  {
+    "name": "Endeavour Wear Mens Regular Fit Trackpants",
+    "description": "Very nice pant, regular fit",
+    "price": {
+      "$numberDecimal": "800"
+    },
+    "purchases": {
+      "$numberInt": "0"
+    },
+    "url": "https://m.media-amazon.com/images/I/61R11o1DC+S._AC_UL320_.jpg"
+  }
+]
